@@ -1,0 +1,15 @@
+#include <wiringPi.h>
+int main (void)
+{
+  wiringPiSetup () ;
+  pinMode (0, OUTPUT) ;
+  for (;;)
+  {
+	int cont=0;
+    digitalWrite (0, HIGH) ; delay (100) ;  /* delay: se le da numeros en milisegundos */
+    digitalWrite (0,  LOW) ; delay (100) ;
+	print(cont);
+	cont = cont +1;
+  }
+  return 0 ;
+}
