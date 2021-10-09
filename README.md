@@ -1,5 +1,5 @@
 # Robotics
-Robotics
+Robotics - Universidad Complutense de Madrid (UCM)
 
 Practice 1 (Práctica 1 -Motores I) consists of familiarizing yourself with the Raspberry Pi and doing simple operations such as controlling a LED or a stepper motor.
 
