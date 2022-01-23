@@ -1,5 +1,10 @@
-# Robotics
-Robotics - Universidad Complutense de Madrid (UCM)
+# Robotics - Universidad Complutense de Madrid (UCM)
+
+Projects and assignments for the Robotics course at UCM, with topics such as: 
+- Industrial robots
+- Sensing and Perception
+- Path planning
+- Navigation and autonomous robots
 
 ![20210211_151419](https://user-images.githubusercontent.com/60484244/136657666-37993783-e555-4c4c-9c05-c319d3ee5bef.jpg)
 
